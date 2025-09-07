@@ -17,3 +17,5 @@ A responsive chat application UI built with HTML, CSS, and JavaScript. It featur
 
 OUTPUT:
 
+<img width="729" height="421" alt="Image" src="https://github.com/user-attachments/assets/341adaff-1793-4713-a64c-3dc38c240e3f" />
+
